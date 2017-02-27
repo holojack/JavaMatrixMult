@@ -1,5 +1,7 @@
-This is a multithreaded matrix multiplication calculator written in Java. Each cell in the result matrix is calculated
-by a unique thread.
+#JavaMatrixMult
+This is a multithreaded matrix multiplication calculator written in Java. 
+
+Each cell in the result matrix is calculated by a unique thread.
 
 Main method is in GUI class. 
 
